@@ -1,0 +1,38 @@
+.banner-content h1.header-title-text, 
+.watch-review, 
+.button-holder, 
+.feature-wrap h3, 
+.feature-all-wrap h1, 
+.section-small-title,
+.feature-details p,
+.collection-text h1,
+.collection-text p,
+.title-line,
+#faq p, #faq li {
+    text-align: right
+}
+
+#faq .title-line, 
+#reviews .title-line, 
+#pricing .title-line, 
+#certified .title-line,
+#contact .title-line {
+    text-align: center
+}
+
+.feature-wrap .text-uppercase {
+    margin-right: 50px;
+    margin-top: 10px;
+    padding: 0;
+}
+.feature-icon {
+    left: initial;
+}
+
+.no-js .owl-carousel, .owl-carousel.owl-loaded {
+    direction: ltr;
+}
+
+.page-scroll.btn.btn-custom.sr-button  {
+    float: right
+}
